@@ -2,7 +2,7 @@
 <img src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" align="right" height="300" width="400" />
 </div>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome my Github.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Welcome my github.</h1>
 
 ## <div align="left">I'm Cooper, a full-time Full-Stack Developer 👨‍💻</div>  
   
